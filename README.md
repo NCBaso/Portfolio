@@ -1,5 +1,7 @@
 # Data Scientist 
 
+#### Technical Skills: GIS, R, Python
+
 ### Education
 Botany, PhD
 
@@ -9,10 +11,13 @@ Data scientist @ Baso R-Analytics
 - big impact project 2!
 
 ### Projects
-MaxEnt modelling
+**MaxEnt modeling**
 _ 
 
 
 
 Multivariate time series analysis (VAR)
 -
+
+
+- [Baso R-Analytics website](https://baso-r-analytics.b12sites.com/index#home)
