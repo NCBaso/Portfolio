@@ -39,21 +39,15 @@ My research interests include the impacts of climate change on biological contro
 
 ## International Presentations
 
-1. **The effects of elevated atmospheric CO2 concentration on the biological control of invasive aquatic weeds.
-   ** 15th Conference on Ecology and Management of Alien Plant Invasions (EMAPI2019), Prague, Czech Republic, September 2019.
-2. **Investigating the Enemy Release Hypothesis: _Lagarosiphon major_ in New Zealand.
-   ** XVI International Symposium on Biological Control of Weeds, Puerto Iguazú, Misiones, Argentina, May 2023.
-3. **The Enemy Release Hypothesis and beyond: _Lagarosiphon major_ invasion dynamics and management options for New Zealand using native natural enemies from South Africa.
-   ** 16th International Symposium on Aquatic Plants, Antwerp, Belgium, November 2023.
+1. **The effects of elevated atmospheric CO2 concentration on the biological control of invasive aquatic weeds.** 15th Conference on Ecology and Management of Alien Plant Invasions (EMAPI2019), Prague, Czech Republic, September 2019.
+2. **Investigating the Enemy Release Hypothesis: _Lagarosiphon major_ in New Zealand. ** XVI International Symposium on Biological Control of Weeds, Puerto Iguazú, Misiones, Argentina, May 2023.
+3. **The Enemy Release Hypothesis and beyond: _Lagarosiphon major_ invasion dynamics and management options for New Zealand using native natural enemies from South Africa. ** 16th International Symposium on Aquatic Plants, Antwerp, Belgium, November 2023.
 
 ## Local Presentations
 
-1. **The effects of elevated atmospheric CO2 concentration on the biological control of invasive aquatic weeds.
-   ** 45th Annual Research Symposium on the Management of Biological Invasions in Southern Africa, Thohoyandou, Limpopo, South Africa, July 2018.
-2. **The impact of CO2 on biological control of invasive macrophytes.
-   ** The National Symposium on Biological Invasions, Tulbagh, Western Cape, South Africa, May 2019.
-3. **Competition between Lagarosiphon major and Egeria densa as mediated by biological control.
-   ** The National Symposium on Biological Invasions, Stellenbosch, Western Cape, South Africa, July 2023.
+1. **The effects of elevated atmospheric CO2 concentration on the biological control of invasive aquatic weeds. ** 45th Annual Research Symposium on the Management of Biological Invasions in Southern Africa, Thohoyandou, Limpopo, South Africa, July 2018.
+2. **The impact of CO2 on biological control of invasive macrophytes.  ** The National Symposium on Biological Invasions, Tulbagh, Western Cape, South Africa, May 2019.
+3. **Competition between Lagarosiphon major and Egeria densa as mediated by biological control. ** The National Symposium on Biological Invasions, Stellenbosch, Western Cape, South Africa, July 2023.
 
 ## Publications
 
@@ -70,7 +64,6 @@ My research interests include the impacts of climate change on biological contro
 - **Best Speed Talk:** South African National Biodiversity Institute 45th Annual Biological Invasion Symposium, Venda, South Africa.
 - **Best Talk:** 16th International Symposium Aquatic Plants, Belgium.
 
-Feel free to explore my projects and reach out if you have any questions or opportunities for collaboration. 
+Feel free to explore my services and reach out if you have any questions or opportunities for collaboration. 
 Thank you for visiting my portfolio!
-
 - [Baso R-Analytics website](https://baso-r-analytics.b12sites.com/index#home)
