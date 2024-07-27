@@ -1,6 +1,5 @@
 # Dr. Nompumelelo Catherine Baso - Baso R-Analytics
-logo:![Profile Picture](https://github.com/user-attachments/assets/f5fb3487-ae3e-4e3c-9242-4a42ae49b9b2)
-theme: jekyll-theme-minimal
+
 Welcome to my portfolio! I am Dr. Nompumelelo Catherine Baso, a researcher specializing in botany and environmental science and founder of Baso R-Analytics. 
 Here, you will find a collection of my projects, publications, and presentations that demonstrate my expertise in plant invasions, biological control and data analysis.
 - [Baso R-Analytics website](https://baso-r-analytics.b12sites.com/index#home)
